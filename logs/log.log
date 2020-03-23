@@ -1,0 +1,8 @@
+2020-03-23 11:52:49,124 INFO [com.example.log4j.MyTest] - slf4j for info
+2020-03-23 11:52:49,124 ERROR [com.example.log4j.MyTest] - slf4j for error
+2020-03-23 11:52:49,124 WARN [com.example.log4j.MyTest] - slf4j for warn
+2020-03-23 11:52:49,125 INFO [com.example.log4j.MyTest] - slf4j message is : Hello SLF4J
+2020-03-23 11:53:18,209 INFO [com.example.log4j.MyTest] - slf4j for info
+2020-03-23 11:53:18,210 ERROR [com.example.log4j.MyTest] - 1/0
+2020-03-23 11:53:18,210 WARN [com.example.log4j.MyTest] - slf4j for warn
+2020-03-23 11:53:18,211 INFO [com.example.log4j.MyTest] - slf4j message is : Hello SLF4J
